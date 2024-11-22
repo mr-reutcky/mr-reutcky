@@ -1,5 +1,5 @@
 <!-- Banner Image -->
-<img src="" alt="Banner Image" style="width:100%;"/>
+<img src="./banner.png" alt="Banner Image" style="width:100%;"/>
 
 # Hi there! 👋 I'm Samuel Reutcky  
 I'm a **software developer in training**, currently studying at MITT. I love learning new programming languages and exploring the endless possibilities of technology.  
