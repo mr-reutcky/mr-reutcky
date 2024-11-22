@@ -2,7 +2,18 @@
 <img src="./banner.png" alt="Banner Image" style="width:100%;"/>
 
 # Hi there! 👋 I'm Samuel Reutcky  
-I'm a **software developer in training**, currently studying at MITT. I love learning new programming languages and exploring the endless possibilities of technology.  
+Hi! I’m Samuel Reutcky, a software developer based in Manitoba, Canada. I’m currently enrolled in the Software Development program at the Manitoba Institute of Trades and Technology (MITT), where I am learning to build and maintain web applications, work with databases, and create dynamic user experiences. My journey into programming has been exciting, and I love the challenge of solving complex problems with code.
+
+I am a lifelong learner and always eager to pick up new skills. Right now, I’m honing my expertise in technologies like HTML, CSS, JavaScript, and React, while diving deeper into back-end development with C#. My studies have also introduced me to modern tools and practices like version control with Git, responsive web design, and software development lifecycle management.
+
+Collaboration is something I truly value. Whether I’m working solo or in a team, I enjoy brainstorming solutions and leveraging the unique perspectives of others to achieve great results. My approach to coding is practical and focused, and I enjoy breaking down big projects into manageable tasks.
+
+Outside of coding, I am a proud pet owner—I have a dog, a cat, and a gecko who keep me company while I work. I love finding ways to balance work and leisure, whether by going sailing, visiting the archery range to relieve stress, or spending a cozy evening at home.
+
+As I continue my journey in software development, my goal is to grow my skill set and contribute to impactful projects. I’m excited about creating intuitive, accessible, and efficient software solutions that make life easier for users.
+
+Feel free to check out my repositories and projects to see what I’ve been working on. Let’s build something amazing together!
+
 
 ---
 
