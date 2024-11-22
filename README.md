@@ -31,7 +31,7 @@ Check out all my projects [here](https://github.com/Mr-Reutcky?tab=repositories)
 ---
 
 ## My GitHub Stats  
-![GitHub Contribution Stats](https://streak-stats.demolab.com?user=Mr-Reutcky&theme=radical&hide_border=true) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Reutcky&layout=compact&theme=dark)
+![Commit Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mr-Reutcky&theme=github&hide_border=true) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Reutcky&layout=compact&theme=github)
 
 ---
 
